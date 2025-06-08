@@ -1,3 +1,5 @@
+السوق-الحرة.ملفوف 
+
 # بتكوين.بازار - Arabic Bitcoin Marketplace
 
 A production-ready decentralized marketplace built on the Diagon Alley protocol with Lightning Network integration.
